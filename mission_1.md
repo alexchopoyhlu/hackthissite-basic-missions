@@ -9,7 +9,7 @@ Bypass a basic login form using knowledge of HTML and simple inspection.
 - Recognizing simple hardcoded credentials in the code
 
 ## Tools Used
-- Browser DevTools (`Ctrl+U` or `Right-click > View Source`)
+- Browser DevTools
 
 ## Solution Summary
 Discovered that the username and password were hardcoded in the HTML source of the page. Used those credentials to log in successfully.
