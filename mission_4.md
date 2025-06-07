@@ -7,7 +7,7 @@ Find a hidden directory or file using URL manipulation.
 - Directory structure matters in web security
 - Hidden or unlinked pages can be guessed or discovered
 
-## 🛠Tools Used
+## Tools Used
 - Manual URL manipulation in browser
 - Understanding of typical file naming conventions
 
