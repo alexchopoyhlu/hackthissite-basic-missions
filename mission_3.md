@@ -1,18 +1,18 @@
 # HackThisSite - Basic Mission 3
 
-## 🧠 Objective
+## Objective
 Bypass client-side JavaScript validation.
 
-## 🔍 What I Learned
+## What I Learned
 - How JavaScript can be used to validate credentials
 - The dangers of relying on client-side logic for authentication
 
-## 🛠️ Tools Used
+## 🛠Tools Used
 - Browser DevTools Console
 - JavaScript analysis
 
-## ✅ Solution Summary
+## Solution Summary
 Read and interpreted the JavaScript function to determine the correct input, then bypassed the login.
 
-## 💡 Key Takeaway
+## Key Takeaway
 Client-side validation is easily bypassed — never rely on it for access control.
