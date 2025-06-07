@@ -7,7 +7,7 @@ Modify a cookie value to gain unauthorized access.
 - How cookies store data in the browser
 - How some applications rely on insecure cookie values for authentication
 
-## 🛠Tools Used
+## Tools Used
 - Browser DevTools > Application > Cookies tab
 
 ## Solution Summary
