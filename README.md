@@ -10,7 +10,7 @@ This repo documents my learning process and solutions for the **Basic Missions**
 
 ---
 
-## 📚 Completed Missions
+## Completed Missions
 
 | Mission | Topic | Summary |
 |--------|-------|---------|
