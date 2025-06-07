@@ -7,7 +7,7 @@ Log in to a restricted area using clues embedded in the page’s HTML.
 - How web forms pass data using GET/POST methods
 - How HTML comments and hidden form values can reveal secrets
 
-## 🛠Tools Used
+## Tools Used
 - Browser DevTools
 
 ## Solution Summary
