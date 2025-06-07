@@ -7,7 +7,7 @@ Bypass client-side JavaScript validation.
 - How JavaScript can be used to validate credentials
 - The dangers of relying on client-side logic for authentication
 
-## 🛠Tools Used
+## Tools Used
 - Browser DevTools Console
 - JavaScript analysis
 
