@@ -31,6 +31,17 @@ This repository documents my solutions and lessons learned from the Missions on 
 
 ---
 
+### Realistic Missions
+
+
+| Mission | Topic                | Summary                              |
+|--------:|----------------------|--------------------------------------|
+| [1](realistic-missions/realistic_01.md)       | HTML Source          | Modified form values using DevTools   |
+
+---
+
+
+
 ## Goal
 
 Eventually, this repository will include detailed writeups and lessons for **all HackThisSite missions**, organized by difficulty and category.
