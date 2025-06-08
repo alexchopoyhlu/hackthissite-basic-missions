@@ -7,6 +7,8 @@ This repo documents my learning process and solutions for the **Basic Missions**
 - Basic PHP logic
 - URL manipulation
 - Cookie editing
+- Cookie tampering
+- Directory traversal
 
 ---
 
@@ -23,6 +25,9 @@ This repo documents my learning process and solutions for the **Basic Missions**
 | 7 | PHP Logic | Reverse-engineered PHP behavior |
 | 8 | Input Filtering | Found correct input |
 | 9 | JavaScript Filtering | Used creative encoding |
+| 10 | Cookie Tampering | client-side auth cookie |
+| 11 | Directory Traversal | Apache `.htaccess` trick|
+
 
 ---
 
